@@ -1,0 +1,1 @@
+shutdown.exe -s -t 45 -c “Detectamos o uso de aplicativos não permitidos, desligando em 45 segundos”
